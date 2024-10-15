@@ -7,7 +7,8 @@ plugins {
 	id("org.sonarqube") version "3.5.0.2730"
 }
 
-group = "com.nisum.service"
+
+group = "com.reto.service"
 version = "0.0.1-SNAPSHOT"
 java.sourceCompatibility = JavaVersion.VERSION_17
 

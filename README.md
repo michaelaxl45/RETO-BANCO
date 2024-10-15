@@ -1,4 +1,4 @@
-# **Challenge Nisum**
+# **Challenge **
 ## Requisitos
 
 Asegúrate de tener instalados los siguientes componentes antes de ejecutar el proyecto:
@@ -43,7 +43,7 @@ http://localhost:8080/api/global/configuration/create**
 **Petición PUT:  Actualiza una  configuración en base a al id de la configuración 
 http://localhost:8080/api/global/configuration/9d4836f7-3918-4249-8a5c-f12cfa5aa7b5**
 
-Para ingresar a la consola de h2: **http://localhost:8080/api/h2-console** Datos para configurar conexión a la base de datos: Driver Class: org.h2.Driver JDBC URL: jdbc:h2:mem:nisum username: us  /  password: 123456
+Para ingresar a la consola de h2: **http://localhost:8080/api/h2-console** Datos para configurar conexión a la base de datos: Driver Class: org.h2.Driver JDBC URL: jdbc:h2:mem:reto username: us  /  password: 123456
 
 El proyecto tiene la swagger para la documentacion y test de end points, para ingresar apuntar la siguiente ruta: **http://localhost:8080/api/swagger-ui/index.html#/**
 

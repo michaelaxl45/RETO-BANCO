@@ -5,7 +5,7 @@ spring:
     include:
       - dev
   datasource:
-    url: jdbc:h2:mem:nisum-challenge
+    url: jdbc:h2:mem:reto-challenge
     username: us
     password: ${DB_PASS:123456}
     driverClassName: org.h2.Driver
